@@ -1,4 +1,4 @@
-# user-name# 💫 About Me:
+💫 About Me:
 Computer science students at Taif university <br>Interesting in programming 🤍💻 
 
 
